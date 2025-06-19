@@ -1,0 +1,6 @@
+{"time":"2025-04-05T11:02:17.8480814+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\Asus\\AppData\\Local\\Temp\\tmpk0abuhy3\\port-22556.txt","pid":22556,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-05T11:02:17.8529639+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":22556}
+{"time":"2025-04-05T11:02:17.8573761+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":50105,"Zone":""}}
+{"time":"2025-04-05T11:02:17.9401942+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:50106"}
+{"time":"2025-04-05T11:02:19.3037826+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"2b6o8czq","id":"127.0.0.1:50106"}
+{"time":"2025-04-05T11:02:19.445514+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"2b6o8czq","id":"127.0.0.1:50106"}

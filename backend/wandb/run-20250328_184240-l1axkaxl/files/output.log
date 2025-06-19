@@ -1,0 +1,16 @@
+✅ Groq LLM initialized and logged to wandb.
+0.7706520557403564
+frontend/src/audio\2885c0e4-2ac6-4572-b155-b55e20f2310a.wav
+Audio saved successfully as frontend/src/audio\2885c0e4-2ac6-4572-b155-b55e20f2310a.wav.
+Generated audio: 2885c0e4-2ac6-4572-b155-b55e20f2310a.wav
+127.0.0.1 - - [28/Mar/2025 18:42:46] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 2885c0e4-2ac6-4572-b155-b55e20f2310a.wav
+127.0.0.1 - - [28/Mar/2025 18:42:50] "[35m[1mGET /audio/2885c0e4-2ac6-4572-b155-b55e20f2310a.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+Error processing audio: Request timed out.
+127.0.0.1 - - [28/Mar/2025 18:43:47] "[35m[1mPOST /upload_audio HTTP/1.1[0m" 500 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+Error processing audio: Connection error.
+127.0.0.1 - - [28/Mar/2025 18:45:15] "[35m[1mPOST /upload_audio HTTP/1.1[0m" 500 -

@@ -1,0 +1,20 @@
+✅ Groq LLM initialized and logged to wandb.
+0.89566969871521
+frontend/src/audio/6353728c-1d44-45f5-8665-1856f6af92ed.wav
+Audio saved successfully as frontend/src/audio/6353728c-1d44-45f5-8665-1856f6af92ed.wav.
+Generated audio: 6353728c-1d44-45f5-8665-1856f6af92ed.wav
+127.0.0.1 - - [23/Mar/2025 10:47:01] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 6353728c-1d44-45f5-8665-1856f6af92ed.wav
+127.0.0.1 - - [23/Mar/2025 10:47:01] "[35m[1mGET /audio/6353728c-1d44-45f5-8665-1856f6af92ed.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  Fight, fight
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.8278439044952393
+frontend/src/audio/c2c9698f-ee0e-4376-819d-eb82cd1fbbbd.wav
+Audio saved successfully as frontend/src/audio/c2c9698f-ee0e-4376-819d-eb82cd1fbbbd.wav.
+Generated audio: c2c9698f-ee0e-4376-819d-eb82cd1fbbbd.wav
+127.0.0.1 - - [23/Mar/2025 10:47:11] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: c2c9698f-ee0e-4376-819d-eb82cd1fbbbd.wav
+127.0.0.1 - - [23/Mar/2025 10:47:11] "[35m[1mGET /audio/c2c9698f-ee0e-4376-819d-eb82cd1fbbbd.wav HTTP/1.1[0m" 206 -

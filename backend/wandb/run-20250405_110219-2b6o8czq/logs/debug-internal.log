@@ -1,0 +1,26 @@
+{"time":"2025-04-05T11:02:19.3096771+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Asus\\Downloads\\Call_Agent_AI-demo_alpha\\Call_Agent_AI-demo\\backend\\wandb\\run-20250405_110219-2b6o8czq\\logs\\debug-core.log"}
+{"time":"2025-04-05T11:02:19.445514+05:30","level":"INFO","msg":"created new stream","id":"2b6o8czq"}
+{"time":"2025-04-05T11:02:19.445514+05:30","level":"INFO","msg":"stream: started","id":"2b6o8czq"}
+{"time":"2025-04-05T11:02:19.446052+05:30","level":"INFO","msg":"handler: started","stream_id":"2b6o8czq"}
+{"time":"2025-04-05T11:02:19.4465741+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2b6o8czq"}
+{"time":"2025-04-05T11:02:19.4465741+05:30","level":"INFO","msg":"sender: started","stream_id":"2b6o8czq"}
+{"time":"2025-04-05T11:02:20.1482464+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-05T11:04:36.3015564+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:04:38.4561338+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:04:42.6493766+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:04:51.5598368+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:04:54.4119232+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.15.53:50109->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-05T11:04:56.6749244+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:05:01.5730821+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:05:09.958699+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:05:10.2923331+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:05:26.4425843+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:05:47.4553731+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:06:01.9809873+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:06:47.4668261+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:07:01.9865711+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:07:47.4771073+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:08:01.9931109+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:08:47.4888187+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:09:01.9990012+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-05T11:09:47.4993602+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/2b6o8czq/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}

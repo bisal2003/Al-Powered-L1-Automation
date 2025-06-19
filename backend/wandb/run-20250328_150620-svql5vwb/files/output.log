@@ -1,0 +1,50 @@
+✅ Groq LLM initialized and logged to wandb.
+0.6567175388336182
+frontend/src/audio\9bff2180-bb12-4cc6-94da-3dfa6ba6676d.wav
+Audio saved successfully as frontend/src/audio\9bff2180-bb12-4cc6-94da-3dfa6ba6676d.wav.
+Generated audio: 9bff2180-bb12-4cc6-94da-3dfa6ba6676d.wav
+127.0.0.1 - - [28/Mar/2025 15:06:23] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 9bff2180-bb12-4cc6-94da-3dfa6ba6676d.wav
+127.0.0.1 - - [28/Mar/2025 15:06:23] "[35m[1mGET /audio/9bff2180-bb12-4cc6-94da-3dfa6ba6676d.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  I am good and how are you?
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.853771448135376
+frontend/src/audio\e1975d64-f7bd-4925-97d8-8cf9992766fc.wav
+Audio saved successfully as frontend/src/audio\e1975d64-f7bd-4925-97d8-8cf9992766fc.wav.
+Generated audio: e1975d64-f7bd-4925-97d8-8cf9992766fc.wav
+127.0.0.1 - - [28/Mar/2025 15:06:39] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: e1975d64-f7bd-4925-97d8-8cf9992766fc.wav
+127.0.0.1 - - [28/Mar/2025 15:06:39] "[35m[1mGET /audio/e1975d64-f7bd-4925-97d8-8cf9992766fc.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  Good enough.
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.6880600452423096
+frontend/src/audio\8645dfea-8989-482e-b18c-756035388cad.wav
+Audio saved successfully as frontend/src/audio\8645dfea-8989-482e-b18c-756035388cad.wav.
+Generated audio: 8645dfea-8989-482e-b18c-756035388cad.wav
+127.0.0.1 - - [28/Mar/2025 15:06:55] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 8645dfea-8989-482e-b18c-756035388cad.wav
+127.0.0.1 - - [28/Mar/2025 15:06:55] "[35m[1mGET /audio/8645dfea-8989-482e-b18c-756035388cad.wav HTTP/1.1[0m" 206 -
+Exception in thread Thread-5 (serve_forever):
+Traceback (most recent call last):
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1075, in _bootstrap_inner
+    self.run()
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Asus\Downloads\Call_Agent_AI-demo_alpha\Call_Agent_AI-demo\.venv\Lib\site-packages\werkzeug\serving.py", line 819, in serve_forever
+    super().serve_forever(poll_interval=poll_interval)
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\socketserver.py", line 235, in serve_forever
+    ready = selector.select(poll_interval)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 323, in select
+    r, w, _ = self._select(self._readers, self._writers, [], timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 314, in _select
+    r, w, x = select.select(r, w, w, timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10038] An operation was attempted on something that is not a socket

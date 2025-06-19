@@ -1,0 +1,17 @@
+{"time":"2025-03-23T04:37:17.320397+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/probindhakal/Desktop/NITS_NEURATHON_CALL_AGENT/ai-phone-agent/backend/wandb/run-20250323_043717-4c857f26/logs/debug-core.log"}
+{"time":"2025-03-23T04:37:17.433941+05:30","level":"INFO","msg":"created new stream","id":"4c857f26"}
+{"time":"2025-03-23T04:37:17.433996+05:30","level":"INFO","msg":"stream: started","id":"4c857f26"}
+{"time":"2025-03-23T04:37:17.43428+05:30","level":"INFO","msg":"handler: started","stream_id":"4c857f26"}
+{"time":"2025-03-23T04:37:17.434553+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4c857f26"}
+{"time":"2025-03-23T04:37:17.434675+05:30","level":"INFO","msg":"sender: started","stream_id":"4c857f26"}
+{"time":"2025-03-23T04:37:18.365416+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-23T04:52:50.54938+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.166.96:57399->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-23T05:00:22.128031+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.166.96:57459->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-23T05:01:50.165801+05:30","level":"INFO","msg":"stream: closing","id":"4c857f26"}
+{"time":"2025-03-23T05:01:50.166154+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-23T05:01:50.169075+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-23T05:01:52.629041+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-23T05:01:53.270308+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4c857f26"}
+{"time":"2025-03-23T05:01:53.270517+05:30","level":"INFO","msg":"handler: closed","stream_id":"4c857f26"}
+{"time":"2025-03-23T05:01:53.270586+05:30","level":"INFO","msg":"sender: closed","stream_id":"4c857f26"}
+{"time":"2025-03-23T05:01:53.2706+05:30","level":"INFO","msg":"stream: closed","id":"4c857f26"}

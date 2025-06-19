@@ -1,0 +1,20 @@
+{"time":"2025-03-28T18:32:00.6526478+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Asus\\Downloads\\Call_Agent_AI-demo_alpha\\Call_Agent_AI-demo\\backend\\wandb\\run-20250328_183200-48byuz3c\\logs\\debug-core.log"}
+{"time":"2025-03-28T18:32:00.792707+05:30","level":"INFO","msg":"created new stream","id":"48byuz3c"}
+{"time":"2025-03-28T18:32:00.793229+05:30","level":"INFO","msg":"stream: started","id":"48byuz3c"}
+{"time":"2025-03-28T18:32:00.7937507+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"48byuz3c"}
+{"time":"2025-03-28T18:32:00.7937507+05:30","level":"INFO","msg":"sender: started","stream_id":"48byuz3c"}
+{"time":"2025-03-28T18:32:00.7937507+05:30","level":"INFO","msg":"handler: started","stream_id":"48byuz3c"}
+{"time":"2025-03-28T18:32:01.8723363+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-28T18:32:54.285412+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/48byuz3c/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-28T18:33:17.4898105+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/48byuz3c/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-28T18:33:42.8138946+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/48byuz3c/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-28T18:34:12.0194101+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/48byuz3c/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-28T18:34:27.3320451+05:30","level":"INFO","msg":"stream: closing","id":"48byuz3c"}
+{"time":"2025-03-28T18:34:27.3325661+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-28T18:34:27.3349046+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-28T18:34:29.3937232+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-28T18:34:52.9962684+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/bisalprasad2003-nit-silchar/rag-pipeline/48byuz3c/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-03-28T18:35:31.3390474+05:30","level":"INFO","msg":"handler: closed","stream_id":"48byuz3c"}
+{"time":"2025-03-28T18:35:31.3390474+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"48byuz3c"}
+{"time":"2025-03-28T18:35:31.3390474+05:30","level":"INFO","msg":"sender: closed","stream_id":"48byuz3c"}
+{"time":"2025-03-28T18:35:31.3395505+05:30","level":"INFO","msg":"stream: closed","id":"48byuz3c"}

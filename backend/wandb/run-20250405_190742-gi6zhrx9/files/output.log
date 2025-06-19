@@ -1,0 +1,64 @@
+✅ Groq LLM initialized and logged to wandb.
+4.557858943939209
+frontend/src/audio\d63e8023-9613-4290-ab3b-ad8069799b23.wav
+Audio saved successfully as frontend/src/audio\d63e8023-9613-4290-ab3b-ad8069799b23.wav.
+Generated audio: d63e8023-9613-4290-ab3b-ad8069799b23.wav
+127.0.0.1 - - [05/Apr/2025 19:07:52] "GET /agent HTTP/1.1" 200 -
+Audio file requested: d63e8023-9613-4290-ab3b-ad8069799b23.wav
+127.0.0.1 - - [05/Apr/2025 19:07:52] "[35m[1mGET /audio/d63e8023-9613-4290-ab3b-ad8069799b23.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  I am good and you?
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+1.9544799327850342
+frontend/src/audio\b07fd17e-d7ae-4a12-a8fe-f8f010cfeb85.wav
+Audio saved successfully as frontend/src/audio\b07fd17e-d7ae-4a12-a8fe-f8f010cfeb85.wav.
+Generated audio: b07fd17e-d7ae-4a12-a8fe-f8f010cfeb85.wav
+127.0.0.1 - - [05/Apr/2025 19:08:16] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: b07fd17e-d7ae-4a12-a8fe-f8f010cfeb85.wav
+127.0.0.1 - - [05/Apr/2025 19:08:16] "[35m[1mGET /audio/b07fd17e-d7ae-4a12-a8fe-f8f010cfeb85.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  No, I'm a bit busy now
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+2.9116101264953613
+frontend/src/audio\c1275480-4e7e-4965-b1bd-def499d6a934.wav
+Audio saved successfully as frontend/src/audio\c1275480-4e7e-4965-b1bd-def499d6a934.wav.
+Generated audio: c1275480-4e7e-4965-b1bd-def499d6a934.wav
+127.0.0.1 - - [05/Apr/2025 19:08:41] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: c1275480-4e7e-4965-b1bd-def499d6a934.wav
+127.0.0.1 - - [05/Apr/2025 19:08:41] "[35m[1mGET /audio/c1275480-4e7e-4965-b1bd-def499d6a934.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  Absolutely not
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+2.552157163619995
+frontend/src/audio\33998b8f-f2d0-4ba5-8f48-be8ce31b2414.wav
+Audio saved successfully as frontend/src/audio\33998b8f-f2d0-4ba5-8f48-be8ce31b2414.wav.
+Generated audio: 33998b8f-f2d0-4ba5-8f48-be8ce31b2414.wav
+Conversation saved as PDF: frontend/src/audio\conversation_history.pdf
+127.0.0.1 - - [05/Apr/2025 19:09:05] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 33998b8f-f2d0-4ba5-8f48-be8ce31b2414.wav
+127.0.0.1 - - [05/Apr/2025 19:09:05] "[35m[1mGET /audio/33998b8f-f2d0-4ba5-8f48-be8ce31b2414.wav HTTP/1.1[0m" 206 -
+ * Detected change in 'C:\\Users\\Asus\\Desktop\\new_projects\\Call_Agent_AI-demo\\backend\\main.py', reloading
+Exception in thread Thread-5 (serve_forever):
+Traceback (most recent call last):
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1075, in _bootstrap_inner
+    self.run()
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Asus\Desktop\new_projects\Call_Agent_AI-demo\.venv\Lib\site-packages\werkzeug\serving.py", line 819, in serve_forever
+    super().serve_forever(poll_interval=poll_interval)
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\socketserver.py", line 235, in serve_forever
+    ready = selector.select(poll_interval)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 323, in select
+    r, w, _ = self._select(self._readers, self._writers, [], timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 314, in _select
+    r, w, x = select.select(r, w, w, timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10038] An operation was attempted on something that is not a socket

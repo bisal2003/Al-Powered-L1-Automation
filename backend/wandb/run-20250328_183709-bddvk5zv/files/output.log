@@ -1,0 +1,30 @@
+✅ Groq LLM initialized and logged to wandb.
+1.615508794784546
+frontend/src/audio\9f78dc29-0765-4162-8c4f-2d5016190586.wav
+Audio saved successfully as frontend/src/audio\9f78dc29-0765-4162-8c4f-2d5016190586.wav.
+Generated audio: 9f78dc29-0765-4162-8c4f-2d5016190586.wav
+127.0.0.1 - - [28/Mar/2025 18:37:16] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 9f78dc29-0765-4162-8c4f-2d5016190586.wav
+127.0.0.1 - - [28/Mar/2025 18:37:16] "[35m[1mGET /audio/9f78dc29-0765-4162-8c4f-2d5016190586.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  I am good and how are you?
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+1.4547574520111084
+frontend/src/audio\dce36caa-e35c-42c4-9582-2c474c4a5453.wav
+Audio saved successfully as frontend/src/audio\dce36caa-e35c-42c4-9582-2c474c4a5453.wav.
+Generated audio: dce36caa-e35c-42c4-9582-2c474c4a5453.wav
+127.0.0.1 - - [28/Mar/2025 18:37:47] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: dce36caa-e35c-42c4-9582-2c474c4a5453.wav
+127.0.0.1 - - [28/Mar/2025 18:37:47] "[35m[1mGET /audio/dce36caa-e35c-42c4-9582-2c474c4a5453.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+Error processing audio: Request timed out.
+127.0.0.1 - - [28/Mar/2025 18:38:23] "[35m[1mPOST /upload_audio HTTP/1.1[0m" 500 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+127.0.0.1 - - [28/Mar/2025 18:39:29] "POST /get_info HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+Error processing audio: Request timed out.
+127.0.0.1 - - [28/Mar/2025 18:39:41] "[35m[1mPOST /upload_audio HTTP/1.1[0m" 500 -

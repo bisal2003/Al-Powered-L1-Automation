@@ -1,0 +1,13 @@
+{"time":"2025-04-05T23:32:41.7730361+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\Asus\\AppData\\Local\\Temp\\tmp2uyzk53m\\port-22780.txt","pid":22780,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-05T23:32:41.7772264+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":22780}
+{"time":"2025-04-05T23:32:41.7772264+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":60501,"Zone":""}}
+{"time":"2025-04-05T23:32:41.9231746+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:60502"}
+{"time":"2025-04-05T23:32:42.9253694+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"9rnsp2md","id":"127.0.0.1:60502"}
+{"time":"2025-04-05T23:32:43.0475602+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"9rnsp2md","id":"127.0.0.1:60502"}
+{"time":"2025-04-05T23:36:01.3492302+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:60502"}
+{"time":"2025-04-05T23:36:01.3492302+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:60502"}
+{"time":"2025-04-05T23:36:01.3492302+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-04-05T23:36:01.3492302+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:60502"}
+{"time":"2025-04-05T23:36:03.4975391+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:60502"}
+{"time":"2025-04-05T23:36:03.4975391+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:60502"}
+{"time":"2025-04-05T23:36:03.4981917+05:30","level":"INFO","msg":"server is closed"}

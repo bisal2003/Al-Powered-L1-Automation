@@ -1,0 +1,24 @@
+✅ Groq LLM initialized and logged to wandb.
+0.9202606678009033
+frontend/src/audio\b78ae20a-6ad7-4110-8c83-64116e3c6a82.wav
+Audio saved successfully as frontend/src/audio\b78ae20a-6ad7-4110-8c83-64116e3c6a82.wav.
+127.0.0.1 - - [06/Apr/2025 00:34:26] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:34:26] "GET /audio/b78ae20a-6ad7-4110-8c83-64116e3c6a82.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.7572696208953857
+frontend/src/audio\4b945702-48c8-4da4-8571-76da432cad76.wav
+Audio saved successfully as frontend/src/audio\4b945702-48c8-4da4-8571-76da432cad76.wav.
+127.0.0.1 - - [06/Apr/2025 00:34:52] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:34:53] "GET /audio/4b945702-48c8-4da4-8571-76da432cad76.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.7926015853881836
+frontend/src/audio\f74d5216-03d9-43e2-9041-45ef403a3190.wav
+Audio saved successfully as frontend/src/audio\f74d5216-03d9-43e2-9041-45ef403a3190.wav.
+127.0.0.1 - - [06/Apr/2025 00:35:13] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:35:13] "GET /audio/f74d5216-03d9-43e2-9041-45ef403a3190.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.27095961570739746
+frontend/src/audio\8654c0a9-eed2-419f-82cb-5eca22b19bcf.wav
+Failed to generate TTS audio. Status code: 400, Response: {"error":"Text length exceeds the limit"}
+127.0.0.1 - - [06/Apr/2025 00:35:33] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:35:34] "[33mGET /audio/None HTTP/1.1[0m" 404 -

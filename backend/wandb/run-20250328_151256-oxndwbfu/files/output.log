@@ -1,0 +1,39 @@
+✅ Groq LLM initialized and logged to wandb.
+0.7594306468963623
+frontend/src/audio\8a9ef79d-7c09-4cfe-9620-9aac8d846167.wav
+Audio saved successfully as frontend/src/audio\8a9ef79d-7c09-4cfe-9620-9aac8d846167.wav.
+Generated audio: 8a9ef79d-7c09-4cfe-9620-9aac8d846167.wav
+127.0.0.1 - - [28/Mar/2025 15:13:00] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 8a9ef79d-7c09-4cfe-9620-9aac8d846167.wav
+127.0.0.1 - - [28/Mar/2025 15:13:00] "[35m[1mGET /audio/8a9ef79d-7c09-4cfe-9620-9aac8d846167.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  I'm fine and how are you?
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.711338996887207
+frontend/src/audio\80049371-690f-4fae-9d5c-b29daef80a10.wav
+Audio saved successfully as frontend/src/audio\80049371-690f-4fae-9d5c-b29daef80a10.wav.
+Generated audio: 80049371-690f-4fae-9d5c-b29daef80a10.wav
+127.0.0.1 - - [28/Mar/2025 15:13:16] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 80049371-690f-4fae-9d5c-b29daef80a10.wav
+127.0.0.1 - - [28/Mar/2025 15:13:16] "[35m[1mGET /audio/80049371-690f-4fae-9d5c-b29daef80a10.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  if not Oh O okay bye
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.7304081916809082
+frontend/src/audio\1f22fa92-ac5c-4cbd-b27f-007d5328f462.wav
+Audio saved successfully as frontend/src/audio\1f22fa92-ac5c-4cbd-b27f-007d5328f462.wav.
+Generated audio: 1f22fa92-ac5c-4cbd-b27f-007d5328f462.wav
+Conversation saved as PDF: frontend/src/audio\conversation_history.pdf
+127.0.0.1 - - [28/Mar/2025 15:13:59] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 1f22fa92-ac5c-4cbd-b27f-007d5328f462.wav
+127.0.0.1 - - [28/Mar/2025 15:13:59] "[35m[1mGET /audio/1f22fa92-ac5c-4cbd-b27f-007d5328f462.wav HTTP/1.1[0m" 206 -
+127.0.0.1 - - [28/Mar/2025 15:14:07] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 15:14:09] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 15:14:10] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 15:14:10] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 15:14:11] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 15:14:11] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -

@@ -1,0 +1,7 @@
+{"time":"2025-03-28T15:12:55.9645138+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\Asus\\AppData\\Local\\Temp\\tmpwxmw128w\\port-18428.txt","pid":18428,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-28T15:12:55.9687696+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":18428}
+{"time":"2025-03-28T15:12:55.9687696+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":54402,"Zone":""}}
+{"time":"2025-03-28T15:12:56.1181403+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:54403"}
+{"time":"2025-03-28T15:12:57.1736852+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"oxndwbfu","id":"127.0.0.1:54403"}
+{"time":"2025-03-28T15:12:57.2958098+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"oxndwbfu","id":"127.0.0.1:54403"}
+{"time":"2025-03-28T15:14:53.1519751+05:30","level":"INFO","msg":"received shutdown signal","signal":15}

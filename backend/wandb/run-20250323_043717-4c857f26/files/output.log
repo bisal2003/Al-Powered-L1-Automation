@@ -1,0 +1,21 @@
+✅ Groq LLM initialized and logged to wandb.
+1.1331360340118408
+frontend/src/audio/1742844a-ff23-4143-b9a6-1babf0f97ffb.wav
+Audio saved successfully as frontend/src/audio/1742844a-ff23-4143-b9a6-1babf0f97ffb.wav.
+Generated audio: 1742844a-ff23-4143-b9a6-1babf0f97ffb.wav
+127.0.0.1 - - [23/Mar/2025 04:37:21] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 1742844a-ff23-4143-b9a6-1babf0f97ffb.wav
+127.0.0.1 - - [23/Mar/2025 04:37:21] "[35m[1mGET /audio/1742844a-ff23-4143-b9a6-1babf0f97ffb.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  Fine fine what about you?
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.8397822380065918
+frontend/src/audio/eabba8a0-638b-4489-9d5e-5c22ef6bf2b3.wav
+Audio saved successfully as frontend/src/audio/eabba8a0-638b-4489-9d5e-5c22ef6bf2b3.wav.
+Generated audio: eabba8a0-638b-4489-9d5e-5c22ef6bf2b3.wav
+127.0.0.1 - - [23/Mar/2025 04:37:33] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: eabba8a0-638b-4489-9d5e-5c22ef6bf2b3.wav
+127.0.0.1 - - [23/Mar/2025 04:37:33] "[35m[1mGET /audio/eabba8a0-638b-4489-9d5e-5c22ef6bf2b3.wav HTTP/1.1[0m" 206 -
+ * Detected change in '/Users/probindhakal/Desktop/NITS_NEURATHON_CALL_AGENT/ai-phone-agent/backend/src/speech_to_text.py', reloading

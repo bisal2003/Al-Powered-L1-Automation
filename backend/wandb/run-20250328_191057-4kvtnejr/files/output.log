@@ -1,0 +1,69 @@
+✅ Groq LLM initialized and logged to wandb.
+0.719954252243042
+frontend/src/audio\ff8105c0-2e47-402e-995e-37caf36153f9.wav
+Audio saved successfully as frontend/src/audio\ff8105c0-2e47-402e-995e-37caf36153f9.wav.
+Generated audio: ff8105c0-2e47-402e-995e-37caf36153f9.wav
+127.0.0.1 - - [28/Mar/2025 19:11:00] "GET /agent HTTP/1.1" 200 -
+Audio file requested: ff8105c0-2e47-402e-995e-37caf36153f9.wav
+127.0.0.1 - - [28/Mar/2025 19:11:21] "[35m[1mGET /audio/ff8105c0-2e47-402e-995e-37caf36153f9.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  How are you
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.8133687973022461
+frontend/src/audio\f523c4cb-f9fc-4621-8a54-4291843beec8.wav
+Audio saved successfully as frontend/src/audio\f523c4cb-f9fc-4621-8a54-4291843beec8.wav.
+Generated audio: f523c4cb-f9fc-4621-8a54-4291843beec8.wav
+127.0.0.1 - - [28/Mar/2025 19:11:35] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: f523c4cb-f9fc-4621-8a54-4291843beec8.wav
+127.0.0.1 - - [28/Mar/2025 19:11:35] "[35m[1mGET /audio/f523c4cb-f9fc-4621-8a54-4291843beec8.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  I am good
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.8074135780334473
+frontend/src/audio\72a917e6-0264-437a-a1c4-b359ac2b13a4.wav
+Audio saved successfully as frontend/src/audio\72a917e6-0264-437a-a1c4-b359ac2b13a4.wav.
+Generated audio: 72a917e6-0264-437a-a1c4-b359ac2b13a4.wav
+127.0.0.1 - - [28/Mar/2025 19:11:53] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 72a917e6-0264-437a-a1c4-b359ac2b13a4.wav
+127.0.0.1 - - [28/Mar/2025 19:11:53] "[35m[1mGET /audio/72a917e6-0264-437a-a1c4-b359ac2b13a4.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  Yeah
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.81732177734375
+frontend/src/audio\c5964b8d-306a-41bc-8ba3-ea043f0ee549.wav
+Audio saved successfully as frontend/src/audio\c5964b8d-306a-41bc-8ba3-ea043f0ee549.wav.
+Generated audio: c5964b8d-306a-41bc-8ba3-ea043f0ee549.wav
+127.0.0.1 - - [28/Mar/2025 19:12:09] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: c5964b8d-306a-41bc-8ba3-ea043f0ee549.wav
+127.0.0.1 - - [28/Mar/2025 19:12:09] "[35m[1mGET /audio/c5964b8d-306a-41bc-8ba3-ea043f0ee549.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  No side effects and everything is fine
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.8224978446960449
+frontend/src/audio\aa0ec846-d0c1-4d71-81fc-daee9fc87c6b.wav
+Audio saved successfully as frontend/src/audio\aa0ec846-d0c1-4d71-81fc-daee9fc87c6b.wav.
+Generated audio: aa0ec846-d0c1-4d71-81fc-daee9fc87c6b.wav
+127.0.0.1 - - [28/Mar/2025 19:12:26] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: aa0ec846-d0c1-4d71-81fc-daee9fc87c6b.wav
+127.0.0.1 - - [28/Mar/2025 19:12:26] "[35m[1mGET /audio/aa0ec846-d0c1-4d71-81fc-daee9fc87c6b.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  It was absolutely smooth process Hey listen, I have something other thing to do So just you can hang up the call
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.9226386547088623
+frontend/src/audio\48c706f9-7a46-4070-a739-d2362980864a.wav
+Audio saved successfully as frontend/src/audio\48c706f9-7a46-4070-a739-d2362980864a.wav.
+Generated audio: 48c706f9-7a46-4070-a739-d2362980864a.wav
+Conversation saved as PDF: frontend/src/audio\conversation_history.pdf
+127.0.0.1 - - [28/Mar/2025 19:12:49] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 48c706f9-7a46-4070-a739-d2362980864a.wav
+127.0.0.1 - - [28/Mar/2025 19:12:49] "[35m[1mGET /audio/48c706f9-7a46-4070-a739-d2362980864a.wav HTTP/1.1[0m" 206 -

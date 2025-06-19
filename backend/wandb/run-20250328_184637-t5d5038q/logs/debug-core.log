@@ -1,0 +1,13 @@
+{"time":"2025-03-28T18:46:36.3505363+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\Asus\\AppData\\Local\\Temp\\tmpdoclip_r\\port-31508.txt","pid":31508,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-28T18:46:36.3641703+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":31508}
+{"time":"2025-03-28T18:46:36.3641703+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":59077,"Zone":""}}
+{"time":"2025-03-28T18:46:36.5138578+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:59078"}
+{"time":"2025-03-28T18:46:37.7472499+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"t5d5038q","id":"127.0.0.1:59078"}
+{"time":"2025-03-28T18:46:37.8686271+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"t5d5038q","id":"127.0.0.1:59078"}
+{"time":"2025-03-28T19:02:30.2710418+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:59078"}
+{"time":"2025-03-28T19:02:30.2710418+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:59078"}
+{"time":"2025-03-28T19:02:30.2715466+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-03-28T19:02:30.2715466+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:59078"}
+{"time":"2025-03-28T19:02:32.0029058+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:59078"}
+{"time":"2025-03-28T19:02:32.0029058+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:59078"}
+{"time":"2025-03-28T19:02:32.0029058+05:30","level":"INFO","msg":"server is closed"}

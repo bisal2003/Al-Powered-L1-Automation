@@ -1,0 +1,81 @@
+✅ Groq LLM initialized and logged to wandb.
+0.9782500267028809
+frontend/src/audio/77dc17d5-9f68-4d5e-80fe-22d0f45a2192.wav
+Audio saved successfully as frontend/src/audio/77dc17d5-9f68-4d5e-80fe-22d0f45a2192.wav.
+Generated audio: 77dc17d5-9f68-4d5e-80fe-22d0f45a2192.wav
+127.0.0.1 - - [23/Mar/2025 13:37:07] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 77dc17d5-9f68-4d5e-80fe-22d0f45a2192.wav
+127.0.0.1 - - [23/Mar/2025 13:37:07] "[35m[1mGET /audio/77dc17d5-9f68-4d5e-80fe-22d0f45a2192.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  Fine, fine. How are you?
+✅ Groq LLM initialized and logged to wandb.
+1.129971981048584
+frontend/src/audio/74115e53-72d0-498a-a698-893b53ee463b.wav
+Audio saved successfully as frontend/src/audio/74115e53-72d0-498a-a698-893b53ee463b.wav.
+Generated audio: 74115e53-72d0-498a-a698-893b53ee463b.wav
+127.0.0.1 - - [23/Mar/2025 13:37:18] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 74115e53-72d0-498a-a698-893b53ee463b.wav
+127.0.0.1 - - [23/Mar/2025 13:37:18] "[35m[1mGET /audio/74115e53-72d0-498a-a698-893b53ee463b.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  Yes, yes, well, no
+✅ Groq LLM initialized and logged to wandb.
+0.9230828285217285
+frontend/src/audio/d08f2e02-c343-4a0d-9d7f-36f5289704a9.wav
+Audio saved successfully as frontend/src/audio/d08f2e02-c343-4a0d-9d7f-36f5289704a9.wav.
+Generated audio: d08f2e02-c343-4a0d-9d7f-36f5289704a9.wav
+127.0.0.1 - - [23/Mar/2025 13:37:30] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: d08f2e02-c343-4a0d-9d7f-36f5289704a9.wav
+127.0.0.1 - - [23/Mar/2025 13:37:30] "[35m[1mGET /audio/d08f2e02-c343-4a0d-9d7f-36f5289704a9.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  Yes, I have recently received the vaccination.
+✅ Groq LLM initialized and logged to wandb.
+0.8955960273742676
+frontend/src/audio/ea8e1072-387a-43f5-9ff0-cee7b34078bd.wav
+Audio saved successfully as frontend/src/audio/ea8e1072-387a-43f5-9ff0-cee7b34078bd.wav.
+Generated audio: ea8e1072-387a-43f5-9ff0-cee7b34078bd.wav
+127.0.0.1 - - [23/Mar/2025 13:37:42] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: ea8e1072-387a-43f5-9ff0-cee7b34078bd.wav
+127.0.0.1 - - [23/Mar/2025 13:37:42] "[35m[1mGET /audio/ea8e1072-387a-43f5-9ff0-cee7b34078bd.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  No, I haven't received any side effect
+✅ Groq LLM initialized and logged to wandb.
+0.9680156707763672
+frontend/src/audio/14378e6c-0483-4417-a2fa-2e99e7f2e365.wav
+Audio saved successfully as frontend/src/audio/14378e6c-0483-4417-a2fa-2e99e7f2e365.wav.
+Generated audio: 14378e6c-0483-4417-a2fa-2e99e7f2e365.wav
+127.0.0.1 - - [23/Mar/2025 13:37:55] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 14378e6c-0483-4417-a2fa-2e99e7f2e365.wav
+127.0.0.1 - - [23/Mar/2025 13:37:55] "[35m[1mGET /audio/14378e6c-0483-4417-a2fa-2e99e7f2e365.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  No, no, nothing like that
+✅ Groq LLM initialized and logged to wandb.
+0.8442370891571045
+frontend/src/audio/5ab314fc-5be0-423f-9f21-5b67529be992.wav
+Audio saved successfully as frontend/src/audio/5ab314fc-5be0-423f-9f21-5b67529be992.wav.
+Generated audio: 5ab314fc-5be0-423f-9f21-5b67529be992.wav
+127.0.0.1 - - [23/Mar/2025 13:38:07] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 5ab314fc-5be0-423f-9f21-5b67529be992.wav
+127.0.0.1 - - [23/Mar/2025 13:38:07] "[35m[1mGET /audio/5ab314fc-5be0-423f-9f21-5b67529be992.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  Yes, it was really organized and convenient
+✅ Groq LLM initialized and logged to wandb.
+0.4230787754058838
+frontend/src/audio/82e08ec8-d530-49e0-8270-82bb12625d59.wav
+Failed to generate TTS audio. Status code: 400, Response: {"error":"Text length exceeds the limit"}
+Generated audio: None
+127.0.0.1 - - [23/Mar/2025 13:38:21] "POST /upload_audio HTTP/1.1" 200 -
+127.0.0.1 - - [23/Mar/2025 13:38:48] "POST /get_info HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+1.215857982635498
+frontend/src/audio/febd64d0-6fd5-436b-aa81-a74fe74869a2.wav
+Audio saved successfully as frontend/src/audio/febd64d0-6fd5-436b-aa81-a74fe74869a2.wav.
+Generated audio: febd64d0-6fd5-436b-aa81-a74fe74869a2.wav
+127.0.0.1 - - [23/Mar/2025 13:38:50] "GET /agent HTTP/1.1" 200 -
+Audio file requested: febd64d0-6fd5-436b-aa81-a74fe74869a2.wav
+127.0.0.1 - - [23/Mar/2025 13:38:50] "[35m[1mGET /audio/febd64d0-6fd5-436b-aa81-a74fe74869a2.wav HTTP/1.1[0m" 206 -

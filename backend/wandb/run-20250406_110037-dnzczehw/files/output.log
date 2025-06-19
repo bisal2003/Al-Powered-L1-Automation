@@ -1,0 +1,49 @@
+✅ Groq LLM initialized and logged to wandb.
+0.7427995204925537
+frontend/src/audio\f1892737-370b-45ff-a936-47694843a467.wav
+Audio saved successfully as frontend/src/audio\f1892737-370b-45ff-a936-47694843a467.wav.
+127.0.0.1 - - [06/Apr/2025 11:00:40] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 11:00:41] "GET /audio/f1892737-370b-45ff-a936-47694843a467.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.7634780406951904
+frontend/src/audio\8addf91b-b666-42c4-8eb2-e44f4dc1e291.wav
+Audio saved successfully as frontend/src/audio\8addf91b-b666-42c4-8eb2-e44f4dc1e291.wav.
+127.0.0.1 - - [06/Apr/2025 11:01:01] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 11:01:01] "GET /audio/8addf91b-b666-42c4-8eb2-e44f4dc1e291.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.741039514541626
+frontend/src/audio\8e05f8f4-de24-44e0-948f-696751bbfbc4.wav
+Audio saved successfully as frontend/src/audio\8e05f8f4-de24-44e0-948f-696751bbfbc4.wav.
+127.0.0.1 - - [06/Apr/2025 11:01:18] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 11:01:19] "GET /audio/8e05f8f4-de24-44e0-948f-696751bbfbc4.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.6120305061340332
+frontend/src/audio\e3c17f3b-47dd-47f2-aeca-4c9fb01635d7.wav
+Audio saved successfully as frontend/src/audio\e3c17f3b-47dd-47f2-aeca-4c9fb01635d7.wav.
+127.0.0.1 - - [06/Apr/2025 11:01:41] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 11:01:41] "GET /audio/e3c17f3b-47dd-47f2-aeca-4c9fb01635d7.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.9252452850341797
+frontend/src/audio\9af4fdee-4159-4b25-8fce-a272008ab056.wav
+Audio saved successfully as frontend/src/audio\9af4fdee-4159-4b25-8fce-a272008ab056.wav.
+127.0.0.1 - - [06/Apr/2025 11:01:57] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 11:01:57] "GET /audio/9af4fdee-4159-4b25-8fce-a272008ab056.wav HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\Asus\\Desktop\\new_projects\\Call_Agent_AI-demo\\backend\\main1.py', reloading
+Exception in thread Thread-5 (serve_forever):
+Traceback (most recent call last):
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1075, in _bootstrap_inner
+    self.run()
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Asus\Desktop\new_projects\Call_Agent_AI-demo\.venv\Lib\site-packages\werkzeug\serving.py", line 819, in serve_forever
+    super().serve_forever(poll_interval=poll_interval)
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\socketserver.py", line 235, in serve_forever
+    ready = selector.select(poll_interval)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 323, in select
+    r, w, _ = self._select(self._readers, self._writers, [], timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 314, in _select
+    r, w, x = select.select(r, w, w, timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10038] An operation was attempted on something that is not a socket

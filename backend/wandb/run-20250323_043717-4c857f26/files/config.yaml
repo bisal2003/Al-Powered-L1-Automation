@@ -1,0 +1,32 @@
+_wandb:
+    value:
+        cli_version: 0.19.8
+        m: []
+        python_version: 3.12.2
+        t:
+            "1":
+                - 55
+                - 86
+                - 105
+            "2":
+                - 55
+                - 86
+                - 105
+            "3":
+                - 13
+                - 23
+                - 55
+            "4": 3.12.2
+            "5": 0.19.8
+            "8":
+                - 5
+            "12": 0.19.8
+            "13": darwin-arm64
+max_retries:
+    value: 2
+max_tokens:
+    value: 512
+model_name:
+    value: llama-3.3-70b-versatile
+temperature:
+    value: 0.9

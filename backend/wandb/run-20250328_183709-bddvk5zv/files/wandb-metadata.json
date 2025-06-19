@@ -1,0 +1,27 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.12.8",
+  "startedAt":  "2025-03-28T13:07:09.560886Z",
+  "program":  "C:\\Users\\Asus\\Downloads\\Call_Agent_AI-demo_alpha\\Call_Agent_AI-demo\\backend\\main.py",
+  "codePath":  "main.py",
+  "email":  "bisalprasad2003@gmail.com",
+  "root":  "C:\\Users\\Asus\\Downloads\\Call_Agent_AI-demo_alpha\\Call_Agent_AI-demo\\backend",
+  "host":  "bisal2003",
+  "executable":  "C:\\Users\\Asus\\Downloads\\Call_Agent_AI-demo_alpha\\Call_Agent_AI-demo\\.venv\\Scripts\\python.exe",
+  "codePathLocal":  "main.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "248196173824",
+      "used":  "234295717888"
+    }
+  },
+  "memory":  {
+    "total":  "16541925376"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  }
+}

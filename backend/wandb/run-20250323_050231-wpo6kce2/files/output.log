@@ -1,0 +1,19 @@
+✅ Groq LLM initialized and logged to wandb.
+1.096149206161499
+frontend/src/audio/19e9c60f-fe53-4075-acb5-71485d033c37.wav
+Audio saved successfully as frontend/src/audio/19e9c60f-fe53-4075-acb5-71485d033c37.wav.
+Generated audio: 19e9c60f-fe53-4075-acb5-71485d033c37.wav
+127.0.0.1 - - [23/Mar/2025 05:02:34] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 19e9c60f-fe53-4075-acb5-71485d033c37.wav
+127.0.0.1 - - [23/Mar/2025 05:02:34] "[35m[1mGET /audio/19e9c60f-fe53-4075-acb5-71485d033c37.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio/frontend_recording.wav
+Processed audio file: frontend/src/audio/processed_recording.wav
+User input from speech:  Fine fine what about you?
+✅ Groq LLM initialized and logged to wandb.
+0.9371581077575684
+frontend/src/audio/9e2f2856-fee7-4c79-a579-6e9cafb889b9.wav
+Audio saved successfully as frontend/src/audio/9e2f2856-fee7-4c79-a579-6e9cafb889b9.wav.
+Generated audio: 9e2f2856-fee7-4c79-a579-6e9cafb889b9.wav
+127.0.0.1 - - [23/Mar/2025 05:02:46] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 9e2f2856-fee7-4c79-a579-6e9cafb889b9.wav
+127.0.0.1 - - [23/Mar/2025 05:02:46] "[35m[1mGET /audio/9e2f2856-fee7-4c79-a579-6e9cafb889b9.wav HTTP/1.1[0m" 206 -

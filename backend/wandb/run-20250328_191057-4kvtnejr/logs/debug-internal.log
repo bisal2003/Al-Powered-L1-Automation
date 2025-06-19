@@ -1,0 +1,7 @@
+{"time":"2025-03-28T19:10:57.1406707+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Asus\\Downloads\\Call_Agent_AI-demo_alpha\\Call_Agent_AI-demo\\backend\\wandb\\run-20250328_191057-4kvtnejr\\logs\\debug-core.log"}
+{"time":"2025-03-28T19:10:57.2588881+05:30","level":"INFO","msg":"created new stream","id":"4kvtnejr"}
+{"time":"2025-03-28T19:10:57.2588881+05:30","level":"INFO","msg":"stream: started","id":"4kvtnejr"}
+{"time":"2025-03-28T19:10:57.2588881+05:30","level":"INFO","msg":"sender: started","stream_id":"4kvtnejr"}
+{"time":"2025-03-28T19:10:57.2588881+05:30","level":"INFO","msg":"handler: started","stream_id":"4kvtnejr"}
+{"time":"2025-03-28T19:10:57.2588881+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4kvtnejr"}
+{"time":"2025-03-28T19:10:57.8320721+05:30","level":"INFO","msg":"Starting system monitor"}

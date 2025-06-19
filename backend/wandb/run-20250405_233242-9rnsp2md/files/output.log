@@ -1,0 +1,28 @@
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.719012975692749
+frontend/src/audio\2a60aff5-3687-4765-abc3-2df0d1635a6e.wav
+Audio saved successfully as frontend/src/audio\2a60aff5-3687-4765-abc3-2df0d1635a6e.wav.
+127.0.0.1 - - [05/Apr/2025 23:32:47] "POST /upload_audio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Apr/2025 23:32:51] "[35m[1mGET /audio/2a60aff5-3687-4765-abc3-2df0d1635a6e.wav HTTP/1.1[0m" 206 -
+127.0.0.1 - - [05/Apr/2025 23:33:08] "POST /get_info HTTP/1.1" 200 -
+Starting call to: +919395360772
+127.0.0.1 - - [05/Apr/2025 23:33:09] "POST /twilio/start_call HTTP/1.1" 200 -
+Exception in thread Thread-5 (serve_forever):
+Traceback (most recent call last):
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1075, in _bootstrap_inner
+    self.run()
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Asus\Desktop\new_projects\Call_Agent_AI-demo\.venv\Lib\site-packages\werkzeug\serving.py", line 819, in serve_forever
+    super().serve_forever(poll_interval=poll_interval)
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\socketserver.py", line 235, in serve_forever
+    ready = selector.select(poll_interval)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 323, in select
+    r, w, _ = self._select(self._readers, self._writers, [], timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 314, in _select
+    r, w, x = select.select(r, w, w, timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10038] An operation was attempted on something that is not a socket

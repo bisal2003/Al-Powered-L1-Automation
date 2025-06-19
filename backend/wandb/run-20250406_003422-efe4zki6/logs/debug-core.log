@@ -1,0 +1,8 @@
+{"time":"2025-04-06T00:34:20.9771112+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\Asus\\AppData\\Local\\Temp\\tmp4kafzw78\\port-22564.txt","pid":22564,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-06T00:34:20.9804652+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":22564}
+{"time":"2025-04-06T00:34:20.9804652+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":62669,"Zone":""}}
+{"time":"2025-04-06T00:34:21.1272666+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:62670"}
+{"time":"2025-04-06T00:34:22.3081636+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"efe4zki6","id":"127.0.0.1:62670"}
+{"time":"2025-04-06T00:34:22.4352458+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"efe4zki6","id":"127.0.0.1:62670"}
+{"time":"2025-04-06T00:40:44.3417068+05:30","level":"ERROR","msg":"connection: fatal error reading connection","error":"read tcp 127.0.0.1:62669->127.0.0.1:62670: wsarecv: An existing connection was forcibly closed by the remote host.","id":"127.0.0.1:62670"}
+{"time":"2025-04-06T00:40:44.3490832+05:30","level":"INFO","msg":"received shutdown signal","signal":15}

@@ -1,0 +1,106 @@
+✅ Groq LLM initialized and logged to wandb.
+2.3628079891204834
+frontend/src/audio\648547a6-8416-4fcf-b07b-d5f8a3e5692c.wav
+Audio saved successfully as frontend/src/audio\648547a6-8416-4fcf-b07b-d5f8a3e5692c.wav.
+Generated audio: 648547a6-8416-4fcf-b07b-d5f8a3e5692c.wav
+127.0.0.1 - - [28/Mar/2025 14:56:17] "GET /agent HTTP/1.1" 200 -
+Audio file requested: 648547a6-8416-4fcf-b07b-d5f8a3e5692c.wav
+127.0.0.1 - - [28/Mar/2025 14:56:17] "[35m[1mGET /audio/648547a6-8416-4fcf-b07b-d5f8a3e5692c.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  Can't wait
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.8788530826568604
+frontend/src/audio\0a27caef-4e82-42f9-af03-b963266b234b.wav
+Audio saved successfully as frontend/src/audio\0a27caef-4e82-42f9-af03-b963266b234b.wav.
+Generated audio: 0a27caef-4e82-42f9-af03-b963266b234b.wav
+127.0.0.1 - - [28/Mar/2025 14:56:35] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 0a27caef-4e82-42f9-af03-b963266b234b.wav
+127.0.0.1 - - [28/Mar/2025 14:56:35] "[35m[1mGET /audio/0a27caef-4e82-42f9-af03-b963266b234b.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  I can't talk you right now Bye
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.8093814849853516
+frontend/src/audio\03c01504-4fcb-4d61-aa21-e24580b3137a.wav
+Audio saved successfully as frontend/src/audio\03c01504-4fcb-4d61-aa21-e24580b3137a.wav.
+Generated audio: 03c01504-4fcb-4d61-aa21-e24580b3137a.wav
+Conversation saved as PDF: frontend/src/audio\conversation_history.pdf
+127.0.0.1 - - [28/Mar/2025 14:56:53] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 03c01504-4fcb-4d61-aa21-e24580b3137a.wav
+127.0.0.1 - - [28/Mar/2025 14:56:53] "[35m[1mGET /audio/03c01504-4fcb-4d61-aa21-e24580b3137a.wav HTTP/1.1[0m" 206 -
+127.0.0.1 - - [28/Mar/2025 14:57:05] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 14:57:07] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 14:57:08] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 14:57:08] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 14:57:08] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 14:57:08] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 14:57:09] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 14:59:33] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 14:59:34] "[35m[1mGET /download_conversation HTTP/1.1[0m" 500 -
+127.0.0.1 - - [28/Mar/2025 15:01:34] "POST /get_info HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.7827727794647217
+frontend/src/audio\f350d1d8-13b5-49b7-a1b7-eca2e5d3a02c.wav
+Audio saved successfully as frontend/src/audio\f350d1d8-13b5-49b7-a1b7-eca2e5d3a02c.wav.
+Generated audio: f350d1d8-13b5-49b7-a1b7-eca2e5d3a02c.wav
+127.0.0.1 - - [28/Mar/2025 15:01:36] "GET /agent HTTP/1.1" 200 -
+Audio file requested: f350d1d8-13b5-49b7-a1b7-eca2e5d3a02c.wav
+127.0.0.1 - - [28/Mar/2025 15:01:36] "[35m[1mGET /audio/f350d1d8-13b5-49b7-a1b7-eca2e5d3a02c.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  labels
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.6856396198272705
+frontend/src/audio\4e838734-0461-4e07-87bd-83e3771553c1.wav
+Audio saved successfully as frontend/src/audio\4e838734-0461-4e07-87bd-83e3771553c1.wav.
+Generated audio: 4e838734-0461-4e07-87bd-83e3771553c1.wav
+127.0.0.1 - - [28/Mar/2025 15:01:50] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: 4e838734-0461-4e07-87bd-83e3771553c1.wav
+127.0.0.1 - - [28/Mar/2025 15:01:50] "[35m[1mGET /audio/4e838734-0461-4e07-87bd-83e3771553c1.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  by words
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.671015739440918
+frontend/src/audio\cafd99af-7c9d-4468-b211-b6f5304ceca7.wav
+Audio saved successfully as frontend/src/audio\cafd99af-7c9d-4468-b211-b6f5304ceca7.wav.
+Generated audio: cafd99af-7c9d-4468-b211-b6f5304ceca7.wav
+127.0.0.1 - - [28/Mar/2025 15:02:05] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: cafd99af-7c9d-4468-b211-b6f5304ceca7.wav
+127.0.0.1 - - [28/Mar/2025 15:02:05] "[35m[1mGET /audio/cafd99af-7c9d-4468-b211-b6f5304ceca7.wav HTTP/1.1[0m" 206 -
+Saved temporary audio file: frontend/src/audio\frontend_recording.wav
+Processed audio file: frontend/src/audio\processed_recording.wav
+User input from speech:  Can't talk right now Quite busy
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.7578198909759521
+frontend/src/audio\a864b705-1152-4725-a860-ced19795c469.wav
+Audio saved successfully as frontend/src/audio\a864b705-1152-4725-a860-ced19795c469.wav.
+Generated audio: a864b705-1152-4725-a860-ced19795c469.wav
+Conversation saved as PDF: frontend/src/audio\conversation_history.pdf
+127.0.0.1 - - [28/Mar/2025 15:02:21] "POST /upload_audio HTTP/1.1" 200 -
+Audio file requested: a864b705-1152-4725-a860-ced19795c469.wav
+127.0.0.1 - - [28/Mar/2025 15:02:21] "[35m[1mGET /audio/a864b705-1152-4725-a860-ced19795c469.wav HTTP/1.1[0m" 206 -
+Exception in thread Thread-5 (serve_forever):
+Traceback (most recent call last):
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1075, in _bootstrap_inner
+    self.run()
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Asus\Downloads\Call_Agent_AI-demo_alpha\Call_Agent_AI-demo\.venv\Lib\site-packages\werkzeug\serving.py", line 819, in serve_forever
+    super().serve_forever(poll_interval=poll_interval)
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\socketserver.py", line 235, in serve_forever
+    ready = selector.select(poll_interval)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 323, in select
+    r, w, _ = self._select(self._readers, self._writers, [], timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 314, in _select
+    r, w, x = select.select(r, w, w, timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10038] An operation was attempted on something that is not a socket

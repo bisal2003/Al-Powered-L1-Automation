@@ -1,0 +1,14 @@
+{"time":"2025-03-28T14:56:11.7101758+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\Asus\\AppData\\Local\\Temp\\tmpms63bkvl\\port-23392.txt","pid":23392,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-28T14:56:11.7133284+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":23392}
+{"time":"2025-03-28T14:56:11.7133284+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":53776,"Zone":""}}
+{"time":"2025-03-28T14:56:11.8858671+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T14:56:13.0832005+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"5ki59nup","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T14:56:13.2047819+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"5ki59nup","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T15:04:44.3850905+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T15:04:44.3850905+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T15:04:44.3850905+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-03-28T15:04:44.3850905+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T15:04:44.6237482+05:30","level":"ERROR","msg":"processOutgoingData: flush error","error":"write tcp 127.0.0.1:53776->127.0.0.1:53777: use of closed network connection","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T15:04:46.9738375+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T15:04:46.9738375+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:53777"}
+{"time":"2025-03-28T15:04:46.9738375+05:30","level":"INFO","msg":"server is closed"}

@@ -1,0 +1,7 @@
+{"time":"2025-03-28T19:10:56.1065773+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\Asus\\AppData\\Local\\Temp\\tmp_ovu_2d0\\port-28632.txt","pid":28632,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-28T19:10:56.1097884+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":28632}
+{"time":"2025-03-28T19:10:56.1097884+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":60034,"Zone":""}}
+{"time":"2025-03-28T19:10:56.28175+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:60035"}
+{"time":"2025-03-28T19:10:57.1390725+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"4kvtnejr","id":"127.0.0.1:60035"}
+{"time":"2025-03-28T19:10:57.2588881+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"4kvtnejr","id":"127.0.0.1:60035"}
+{"time":"2025-03-28T19:37:00.6347689+05:30","level":"INFO","msg":"received shutdown signal","signal":15}

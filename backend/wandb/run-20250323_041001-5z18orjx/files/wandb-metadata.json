@@ -1,0 +1,44 @@
+{
+  "os": "macOS-15.3.2-arm64-arm-64bit",
+  "python": "CPython 3.12.2",
+  "startedAt": "2025-03-22T22:40:01.521560Z",
+  "program": "/Users/probindhakal/Desktop/NITS_NEURATHON_CALL_AGENT/ai-phone-agent/backend/main.py",
+  "codePath": "backend/main.py",
+  "git": {
+    "remote": "https://github.com/bisal2003/Call_Agent_AI.git",
+    "commit": "24d3d9096d9223cef7ae914fd241ae6be217d7a5"
+  },
+  "email": "bisalprasad2003@gmail.com",
+  "root": "/Users/probindhakal/Desktop/NITS_NEURATHON_CALL_AGENT/ai-phone-agent/backend",
+  "host": "Probins-MacBook-Air.local",
+  "executable": "/Users/probindhakal/.pyenv/versions/3.12.2/bin/python3",
+  "codePathLocal": "main.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "132471001088"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "132471001088"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "3221225472",
+    "ramTotalBytes": "8589934592"
+  }
+}

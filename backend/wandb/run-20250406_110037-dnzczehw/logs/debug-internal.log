@@ -1,0 +1,15 @@
+{"time":"2025-04-06T11:00:37.2056495+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Asus\\Desktop\\new_projects\\Call_Agent_AI-demo\\backend\\wandb\\run-20250406_110037-dnzczehw\\logs\\debug-core.log"}
+{"time":"2025-04-06T11:00:37.3365453+05:30","level":"INFO","msg":"created new stream","id":"dnzczehw"}
+{"time":"2025-04-06T11:00:37.3370695+05:30","level":"INFO","msg":"stream: started","id":"dnzczehw"}
+{"time":"2025-04-06T11:00:37.3375838+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dnzczehw"}
+{"time":"2025-04-06T11:00:37.3381257+05:30","level":"INFO","msg":"sender: started","stream_id":"dnzczehw"}
+{"time":"2025-04-06T11:00:37.3375838+05:30","level":"INFO","msg":"handler: started","stream_id":"dnzczehw"}
+{"time":"2025-04-06T11:00:38.009177+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-06T11:03:27.7565994+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-06T11:03:27.7565994+05:30","level":"INFO","msg":"stream: closing","id":"dnzczehw"}
+{"time":"2025-04-06T11:03:27.7592808+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-06T11:03:29.45921+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-06T11:03:29.9614397+05:30","level":"INFO","msg":"handler: closed","stream_id":"dnzczehw"}
+{"time":"2025-04-06T11:03:29.9614397+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dnzczehw"}
+{"time":"2025-04-06T11:03:29.9614397+05:30","level":"INFO","msg":"sender: closed","stream_id":"dnzczehw"}
+{"time":"2025-04-06T11:03:29.9622446+05:30","level":"INFO","msg":"stream: closed","id":"dnzczehw"}

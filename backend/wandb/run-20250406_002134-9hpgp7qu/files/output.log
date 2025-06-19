@@ -1,0 +1,55 @@
+✅ Groq LLM initialized and logged to wandb.
+0.8526391983032227
+frontend/src/audio\03df09dd-f35e-4248-a27f-d0ffc981944e.wav
+Audio saved successfully as frontend/src/audio\03df09dd-f35e-4248-a27f-d0ffc981944e.wav.
+127.0.0.1 - - [06/Apr/2025 00:21:39] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:21:39] "GET /audio/03df09dd-f35e-4248-a27f-d0ffc981944e.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.6969208717346191
+frontend/src/audio\fe457084-19b6-4abc-bad4-7f978994b5d4.wav
+Audio saved successfully as frontend/src/audio\fe457084-19b6-4abc-bad4-7f978994b5d4.wav.
+127.0.0.1 - - [06/Apr/2025 00:21:55] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:21:56] "GET /audio/fe457084-19b6-4abc-bad4-7f978994b5d4.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.7427976131439209
+frontend/src/audio\9bb68ea2-0909-4712-8cc9-c688469b5b04.wav
+Audio saved successfully as frontend/src/audio\9bb68ea2-0909-4712-8cc9-c688469b5b04.wav.
+127.0.0.1 - - [06/Apr/2025 00:22:14] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:22:15] "GET /audio/9bb68ea2-0909-4712-8cc9-c688469b5b04.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.7468419075012207
+frontend/src/audio\5f1ed7ee-8444-41b5-96aa-c9d1c4095dc4.wav
+Audio saved successfully as frontend/src/audio\5f1ed7ee-8444-41b5-96aa-c9d1c4095dc4.wav.
+127.0.0.1 - - [06/Apr/2025 00:22:31] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:22:31] "GET /audio/5f1ed7ee-8444-41b5-96aa-c9d1c4095dc4.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.8092219829559326
+frontend/src/audio\3c5bf893-e12e-44ff-b408-d52d343d702c.wav
+Audio saved successfully as frontend/src/audio\3c5bf893-e12e-44ff-b408-d52d343d702c.wav.
+127.0.0.1 - - [06/Apr/2025 00:22:50] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:22:51] "GET /audio/3c5bf893-e12e-44ff-b408-d52d343d702c.wav HTTP/1.1" 200 -
+✅ Groq LLM initialized and logged to wandb.
+0.7725398540496826
+frontend/src/audio\1c16c704-b189-411e-9c7a-796141a299cd.wav
+Audio saved successfully as frontend/src/audio\1c16c704-b189-411e-9c7a-796141a299cd.wav.
+127.0.0.1 - - [06/Apr/2025 00:23:11] "POST /twilio/voice HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:23:12] "GET /audio/1c16c704-b189-411e-9c7a-796141a299cd.wav HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\Asus\\Desktop\\new_projects\\Call_Agent_AI-demo\\backend\\main1.py', reloading
+Exception in thread Thread-5 (serve_forever):
+Traceback (most recent call last):
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1075, in _bootstrap_inner
+    self.run()
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Asus\Desktop\new_projects\Call_Agent_AI-demo\.venv\Lib\site-packages\werkzeug\serving.py", line 819, in serve_forever
+    super().serve_forever(poll_interval=poll_interval)
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\socketserver.py", line 235, in serve_forever
+    ready = selector.select(poll_interval)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 323, in select
+    r, w, _ = self._select(self._readers, self._writers, [], timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 314, in _select
+    r, w, x = select.select(r, w, w, timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10038] An operation was attempted on something that is not a socket

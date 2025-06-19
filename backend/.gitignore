@@ -1,0 +1,11 @@
+audio
+.venv
+.env
+.idea
+__pycache__
+output.wav
+ngrok.exe
+static
+audio_segment.wav
+neurosphere-453417-a13fa049f648.json
+

@@ -1,0 +1,34 @@
+2025-03-28 19:03:57,703 INFO    Thread-7 (process_request_thread):13628 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-28 19:03:57,703 INFO    Thread-7 (process_request_thread):13628 [wandb_setup.py:_flush():67] Configure stats pid to 13628
+2025-03-28 19:03:57,703 INFO    Thread-7 (process_request_thread):13628 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Asus\.config\wandb\settings
+2025-03-28 19:03:57,703 INFO    Thread-7 (process_request_thread):13628 [wandb_setup.py:_flush():67] Loading settings from C:\Users\Asus\Downloads\Call_Agent_AI-demo_alpha\Call_Agent_AI-demo\backend\wandb\settings
+2025-03-28 19:03:57,703 INFO    Thread-7 (process_request_thread):13628 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-28 19:03:57,712 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:setup_run_log_directory():647] Logging user logs to C:\Users\Asus\Downloads\Call_Agent_AI-demo_alpha\Call_Agent_AI-demo\backend\wandb\run-20250328_190357-x4qz6nyt\logs\debug.log
+2025-03-28 19:03:57,713 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to C:\Users\Asus\Downloads\Call_Agent_AI-demo_alpha\Call_Agent_AI-demo\backend\wandb\run-20250328_190357-x4qz6nyt\logs\debug-internal.log
+2025-03-28 19:03:57,713 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():761] calling init triggers
+2025-03-28 19:03:57,713 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-28 19:03:57,713 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():784] starting backend
+2025-03-28 19:03:57,713 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():788] sending inform_init request
+2025-03-28 19:03:57,771 INFO    Thread-7 (process_request_thread):13628 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-28 19:03:57,771 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():798] backend started and connected
+2025-03-28 19:03:57,773 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():891] updated telemetry
+2025-03-28 19:03:57,776 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-28 19:03:58,419 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():990] starting run threads in backend
+2025-03-28 19:03:58,633 INFO    Thread-7 (process_request_thread):13628 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-28 19:03:58,633 INFO    Thread-7 (process_request_thread):13628 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-28 19:03:58,633 INFO    Thread-7 (process_request_thread):13628 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-28 19:03:58,633 INFO    Thread-7 (process_request_thread):13628 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-28 19:03:58,636 INFO    Thread-7 (process_request_thread):13628 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-28 19:03:59,708 INFO    Thread-7 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:04:18,950 INFO    Thread-11 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:04:20,355 INFO    Thread-11 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:04:34,831 INFO    Thread-17 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:04:36,440 INFO    Thread-17 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:04:51,907 INFO    Thread-23 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:04:53,453 INFO    Thread-23 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:05:07,090 INFO    Thread-29 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:05:08,513 INFO    Thread-29 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:05:26,771 INFO    Thread-35 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:05:28,303 INFO    Thread-35 (process_request_thread):13628 [wandb_run.py:_config_callback():1261] config_cb None None {'model_name': 'llama-3.3-70b-versatile', 'temperature': 0.9, 'max_tokens': 512, 'max_retries': 2}
+2025-03-28 19:07:57,871 INFO    MsgRouterThr:13628 [mailbox.py:close():129] Closing mailbox, abandoning 1 handles.

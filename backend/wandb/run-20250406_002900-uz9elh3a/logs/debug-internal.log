@@ -1,0 +1,15 @@
+{"time":"2025-04-06T00:29:00.067408+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\Asus\\Desktop\\new_projects\\Call_Agent_AI-demo\\backend\\wandb\\run-20250406_002900-uz9elh3a\\logs\\debug-core.log"}
+{"time":"2025-04-06T00:29:00.1860699+05:30","level":"INFO","msg":"created new stream","id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:00.1860699+05:30","level":"INFO","msg":"stream: started","id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:00.1860699+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:00.1860699+05:30","level":"INFO","msg":"sender: started","stream_id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:00.1860699+05:30","level":"INFO","msg":"handler: started","stream_id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:00.7866589+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-06T00:29:16.0557755+05:30","level":"INFO","msg":"stream: closing","id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:16.0557755+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-06T00:29:16.0563214+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-06T00:29:25.1325048+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-06T00:29:25.5759487+05:30","level":"INFO","msg":"handler: closed","stream_id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:25.5759487+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:25.5759487+05:30","level":"INFO","msg":"sender: closed","stream_id":"uz9elh3a"}
+{"time":"2025-04-06T00:29:25.5764696+05:30","level":"INFO","msg":"stream: closed","id":"uz9elh3a"}

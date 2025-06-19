@@ -1,0 +1,40 @@
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.7174429893493652
+frontend/src/audio\df7b40a3-fd1c-4962-9b59-99c91273f4ce.wav
+Audio saved successfully as frontend/src/audio\df7b40a3-fd1c-4962-9b59-99c91273f4ce.wav.
+127.0.0.1 - - [06/Apr/2025 00:31:14] "POST /upload_audio HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:31:14] "[35m[1mGET /audio/df7b40a3-fd1c-4962-9b59-99c91273f4ce.wav HTTP/1.1[0m" 206 -
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.7121784687042236
+frontend/src/audio\90a43fe5-b684-45c6-9f85-e5c946cfe324.wav
+Audio saved successfully as frontend/src/audio\90a43fe5-b684-45c6-9f85-e5c946cfe324.wav.
+127.0.0.1 - - [06/Apr/2025 00:31:32] "POST /upload_audio HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:31:32] "[35m[1mGET /audio/90a43fe5-b684-45c6-9f85-e5c946cfe324.wav HTTP/1.1[0m" 206 -
+✅ Groq LLM initialized and logged to wandb.
+✅ Groq LLM initialized and logged to wandb.
+0.7295100688934326
+frontend/src/audio\afdf98fe-ff9c-4146-ab06-7ebe7135b84c.wav
+Audio saved successfully as frontend/src/audio\afdf98fe-ff9c-4146-ab06-7ebe7135b84c.wav.
+127.0.0.1 - - [06/Apr/2025 00:31:48] "POST /upload_audio HTTP/1.1" 200 -
+127.0.0.1 - - [06/Apr/2025 00:31:48] "[35m[1mGET /audio/afdf98fe-ff9c-4146-ab06-7ebe7135b84c.wav HTTP/1.1[0m" 206 -
+ * Detected change in 'C:\\Users\\Asus\\Desktop\\new_projects\\Call_Agent_AI-demo\\backend\\main1.py', reloading
+Exception in thread Thread-5 (serve_forever):
+Traceback (most recent call last):
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1075, in _bootstrap_inner
+    self.run()
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\Asus\Desktop\new_projects\Call_Agent_AI-demo\.venv\Lib\site-packages\werkzeug\serving.py", line 819, in serve_forever
+    super().serve_forever(poll_interval=poll_interval)
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\socketserver.py", line 235, in serve_forever
+    ready = selector.select(poll_interval)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 323, in select
+    r, w, _ = self._select(self._readers, self._writers, [], timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Asus\AppData\Local\Programs\Python\Python312\Lib\selectors.py", line 314, in _select
+    r, w, x = select.select(r, w, w, timeout)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10038] An operation was attempted on something that is not a socket

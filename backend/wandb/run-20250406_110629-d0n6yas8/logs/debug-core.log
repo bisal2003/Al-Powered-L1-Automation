@@ -1,0 +1,14 @@
+{"time":"2025-04-06T11:06:28.0102633+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\Asus\\AppData\\Local\\Temp\\tmpugn4o95s\\port-17600.txt","pid":17600,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-04-06T11:06:28.0144664+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":17600}
+{"time":"2025-04-06T11:06:28.0144664+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":63478,"Zone":""}}
+{"time":"2025-04-06T11:06:28.1652805+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:06:29.1579037+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"d0n6yas8","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:06:29.283511+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"d0n6yas8","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:09:45.2341107+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:09:45.2341107+05:30","level":"INFO","msg":"connection: closing","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:09:45.2341107+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-04-06T11:09:45.2341107+05:30","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:09:45.5316255+05:30","level":"ERROR","msg":"processOutgoingData: flush error","error":"write tcp 127.0.0.1:63478->127.0.0.1:63479: use of closed network connection","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:09:47.7229526+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:09:47.7229526+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:63479"}
+{"time":"2025-04-06T11:09:47.7229526+05:30","level":"INFO","msg":"server is closed"}
