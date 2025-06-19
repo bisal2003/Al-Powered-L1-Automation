@@ -1,7 +1,8 @@
 # CALL.E: AI-Powered L1 Customer Care Automation
 
-![calle-removebg-preview 1](https://github.com/user-attachments/assets/9c3ee623-d5fa-4579-bcec-eb1d2f6eb6c5)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b506abe4-acbd-4d1d-8673-48b530ba6417" alt="CALL.E Logo" width="200"/>
+</p>
 
 <p align="center">
   <strong>Built by Ninja Developers</strong><br>
