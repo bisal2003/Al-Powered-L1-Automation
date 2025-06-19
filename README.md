@@ -1,7 +1,7 @@
 # CALL.E: AI-Powered L1 Customer Care Automation
 
 <p align="center">
-  <img src="https://i.imgur.com/your-logo-image.png" alt="CALL.E Logo" width="200"/>
+  <img src="![calle-removebg-preview 1](https://github.com/user-attachments/assets/1a059922-edb6-4045-8cbb-5057c7e64072)" alt="CALL.E Logo" width="200"/>
 </p>
 
 <p align="center">
